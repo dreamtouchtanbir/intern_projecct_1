@@ -1,0 +1,913 @@
+@media (min-width:1200px) {}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .padding {
+        padding: 40px 0 !important;
+    }
+
+    .bannar {
+        padding-top: 15px;
+    }
+
+    /*==============nav_bar Section Start=======================*/
+ 
+    /*==============nav_bar Section End=======================*/
+    /*==============bannar Section Start=======================*/
+    .bannar_section {
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+    .bannar .bannar_contant {
+        margin-top: 90px;
+    }
+
+   .bannar .bannar_contant h1 {
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 800;
+    color: #1a1a1a;
+    text-align: right;
+    font-size: 52px;
+}
+    .bannar_contant a {
+    padding: 0 19px;
+    font-size: 13px;
+    letter-spacing: 2px;
+    margin-right: 50%;
+}
+
+    /*==============bannar Section End=======================*/
+    /*==============Bannar_bottom_content Section Start=======================*/
+    .bannar_bottom {
+        padding: 30px 0;
+        margin-top: 0px;
+    }
+
+    .bannar_bottom_logo img {
+        position: absolute;
+        top: -59px;
+        left: 3px;
+        width: 150px;
+    }
+
+    .bannar_bottom_content h2 {
+    font-size: 31px;
+    float: right;
+    width: 100%;
+}
+
+    /*==============Bannar_bottom_content Section End=======================*/
+    /*==============Feature Section End=======================*/
+    .feature_section {
+    padding-top: 240px;
+}
+    .feature_img {
+    position: relative;
+    right: -400px;
+    top: 0;
+}
+    .feature_contant h2 {
+    color: #000;
+   
+}
+    /*==============Feature Section End=======================*/
+    .human_tropic_content h2 {
+    font-size: 41px;
+    
+}
+    .happiness_section {
+    padding-bottom: 100px;
+}
+    .happiness_content h2 {
+    font-size: 41px;
+}
+    .feedback_title h2 {
+    font-size: 41px;
+    text-align: center;
+}
+    .quotes_section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+    .quotes_title h2 {
+    font-size: 50px;
+    padding-bottom: 60px;
+}
+    .questions_bg {
+    padding: 100px 145px;
+}
+    .questions_title h2 {
+    font-size: 50px;
+    padding-bottom: 120px;
+
+}
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+.padding {
+        padding: 40px 0 !important;
+    }
+
+    .bannar {
+        padding-top: 15px;
+    }
+
+    /*==============nav_bar Section Start=======================*/
+    .navbar {
+        top: 20px;
+    }
+
+    .navbar a.navbar-brand {
+        width: 50px;
+        height: 50px;
+        margin-right: 0px;
+        box-shadow: 1px 1px 27px 2px rgba(14, 72, 79, 0.6);
+    }
+
+    .navbar a.navbar-brand img {
+        margin-left: 7px;
+        margin-top: 6px;
+    }
+
+    .navbar .navbar-collapse .navbar-nav .nav-item a.nav-link {
+        margin-right: 0px;
+        line-height: 30px;
+    }
+
+    .navbar .navbar-collapse .navbar-nav .nav-item a.nav-link:before {
+        display: none;
+
+    }
+
+    .navbar .navbar-collapse .navbar-nav {
+        background: #fff;
+    }
+
+    .navbar .navbar-collapse .navbar-nav .nav-item a.log_in {
+        margin-right: 0px;
+        line-height: 30px;
+        text-align: center;
+        display: block;
+        margin-left: 0;
+        padding: 0px !important;
+    }
+
+    .navbar .navbar-collapse .navbar-nav .nav-item a.try_now {
+    line-height: 50px;
+    width: 200px;
+    display: block;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 250px;
+}
+    /*==============nav_bar Section End=======================*/
+    /*==============bannar Section Start=======================*/
+    .bannar_section {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+
+    .bannar .bannar_contant {
+        margin-top: 90px;
+    }
+
+   .bannar .bannar_contant h1 {
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 800;
+    color: #1a1a1a;
+    text-align: left;
+    font-size: 52px;
+}
+
+    .bannar_contant a {
+    padding: 0 19px;
+    font-size: 13px;
+    letter-spacing: 2px;
+    margin-right: 50%;
+}
+
+    /*==============bannar Section End=======================*/
+    /*==============Bannar_bottom_content Section Start=======================*/
+    .bannar_bottom {
+        padding: 30px 0;
+        margin-top: 0px;
+    }
+
+    .bannar_bottom_logo img {
+        position: absolute;
+        top: -59px;
+        left: 3px;
+        width: 150px;
+    }
+
+    .bannar_bottom_content h2 {
+        font-size: 16px;
+        float: right;
+        width: 75%;
+    }
+
+    /*==============Bannar_bottom_content Section End=======================*/
+    /*==============Feature Section Start=======================*/
+    .feature_section {
+    padding-top: 162px;
+    padding-bottom: 80px;
+}
+    .feature_contant h2 {
+        font-size: 20px;
+        padding-top: 50px;
+    }
+
+    .feature_contant h3 span {
+    font-size: 50px;
+    padding-right: 20px;
+}
+    .feature_img {
+        position: relative;
+        right: 0;
+        top: 0;
+    }
+.feature_img img {
+    position: absolute;
+    bottom: -163px;
+    right: 0;
+    width: 57%;
+}
+    /*==============Feature Section End=======================*/
+    /*==============Client Section Start=======================*/
+    .client_section {
+        padding-bottom: 50px;
+    }
+
+    /*==============Client Section End=======================*/
+    /*==============Human_tropic Section Start=======================*/
+    .human_tropic_section {
+        min-height: 600px;
+    }
+
+    .human_tropic-img .human_tropic_img_item {
+        position: absolute;
+        top: 194px;
+        left: -70px;
+    }
+
+    .human_tropic-img .human_tropic_img_item img {
+        width: 50%;
+    }
+
+    .img_content {
+        top: 53%;
+        width: 50%;
+        left: 42%;
+    }
+
+    .img_content p {
+        font-size: 11px;
+        width: 50%;
+    }
+
+    .img_content h5 {
+        font-size: 10px;
+        padding-top: 10px;
+    }
+
+    .human_tropic_content h2 {
+        font-size: 16px;
+        margin-top: 217px;
+        width: 56%;
+        float: right;
+    }
+
+ .human_tropic_content a {
+    padding: 0 20px;
+    letter-spacing: 3px;
+    margin-top: 311px;
+    float: right;
+    display: inline-block !important;
+    margin-right: -202px;
+}
+    /*==============Human_tropic Section End=======================*/
+    /*==============Happiness Section Start=======================*/
+    .happiness_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+    .happiness_content h2 {
+        font-size: 34px;
+        padding-left: 15px;
+    }
+    .happiness_content p {
+    font-size: 13px;
+    padding-left: 15px;
+}
+    .happiness_content h4 {
+    padding-left: 15px;
+}
+    .happiness_content a {
+    padding: 0 10px;
+    letter-spacing: 3px;
+    margin-top: 20px;
+    color: #fff;
+    margin-left: 15px;
+}
+    /*==============Happiness Section End=======================*/
+    /*==============feedback Section Start=======================*/
+    
+    .feedback_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+    .feedback_title h2 {
+    font-size: 24px;
+}
+    .feedback_title p {
+    font-size: 13px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-right: 15px;
+}
+    /*==============feedback Section End=======================*/
+    /*==============Quotes Section Start=======================*/
+    .quotes_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+    .quotes_item {
+    padding-right: 0;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+    .quotes_title h2 {
+    font-size: 34px;
+    padding-bottom: 50px;
+}
+    /*==============Quotes Section End=======================*/
+    /*==============Questions Section Start=======================*/
+  .questions_title h2 {
+    font-size: 38px;
+    padding-bottom: 50px;
+}
+    /*==============Questions Section End=======================*/
+    /*================Footer start====================================*/
+    .footer_bg {
+    min-height: 400px;
+    margin-top: -278px;
+}
+    .footer_content_left {
+    left: 0;
+    bottom: -348px;
+    padding-left: 15px !Important;
+}
+    .footer_content_left ul li {
+    padding-right: 10px;
+}
+    .footer_content_left ul li a {
+    font-size: 9px;
+}
+    .footer_content_rigth{
+        bottom: -348px;
+    }
+.footer_content_rigth p {
+    font-size: 11px;
+    padding-right: 15px;
+}
+    /*================Footer End====================================*/
+
+}
+
+@media (min-width:576px) and (max-width:767px) {
+
+   .padding {
+        padding: 40px 0 !important;
+    }
+
+    .bannar {
+        padding-top: 15px;
+    }
+
+    /*==============nav_bar Section Start=======================*/
+    .navbar {
+        top: 20px;
+    }
+
+    .navbar a.navbar-brand {
+        width: 50px;
+        height: 50px;
+        margin-right: 0px;
+        box-shadow: 1px 1px 27px 2px rgba(14, 72, 79, 0.6);
+    }
+
+    .navbar a.navbar-brand img {
+        margin-left: 7px;
+        margin-top: 6px;
+    }
+
+    .navbar .navbar-collapse .navbar-nav .nav-item a.nav-link {
+        margin-right: 0px;
+        line-height: 30px;
+    }
+
+    .navbar .navbar-collapse .navbar-nav .nav-item a.nav-link:before {
+        display: none;
+
+    }
+
+    .navbar .navbar-collapse .navbar-nav {
+        background: #fff;
+    }
+
+    .navbar .navbar-collapse .navbar-nav .nav-item a.log_in {
+        margin-right: 0px;
+        line-height: 30px;
+        text-align: center;
+        display: block;
+        margin-left: 0;
+        padding: 0px !important;
+    }
+
+    .navbar .navbar-collapse .navbar-nav .nav-item a.try_now {
+    line-height: 50px;
+    width: 200px;
+    display: block;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 250px;
+}
+    /*==============nav_bar Section End=======================*/
+    /*==============bannar Section Start=======================*/
+    .bannar_section {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+
+    .bannar .bannar_contant {
+        margin-top: 90px;
+    }
+
+    .bannar .bannar_contant h1 {
+        font-family: 'Libre Franklin', sans-serif;
+        font-weight: 800;
+        color: #1a1a1a;
+        text-align: left;
+        font-size: 28px;
+    }
+
+    .bannar_contant a {
+    padding: 0 19px;
+    font-size: 13px;
+    letter-spacing: 2px;
+    margin-right: 50%;
+}
+
+    /*==============bannar Section End=======================*/
+    /*==============Bannar_bottom_content Section Start=======================*/
+    .bannar_bottom {
+        padding: 30px 0;
+        margin-top: 0px;
+    }
+
+    .bannar_bottom_logo img {
+        position: absolute;
+        top: -59px;
+        left: 3px;
+        width: 150px;
+    }
+
+    .bannar_bottom_content h2 {
+        font-size: 16px;
+        float: right;
+        width: 75%;
+    }
+
+    /*==============Bannar_bottom_content Section End=======================*/
+    /*==============Feature Section Start=======================*/
+    
+    .feature_section {
+        padding-top: 162px;
+        padding-bottom: 50px;
+    }
+
+    .feature_contant h2 {
+        font-size: 20px;
+        padding-top: 50px;
+    }
+
+    .feature_contant h3 span {
+        font-size: 50px;
+        display: block;
+    }
+
+    .feature_img {
+        position: relative;
+        right: 0;
+        top: 0;
+    }
+.feature_img img {
+    width: 70%;
+}
+
+    /*==============Feature Section End=======================*/
+    /*==============Client Section Start=======================*/
+    .client_section {
+        padding-bottom: 50px;
+    }
+
+    /*==============Client Section End=======================*/
+    /*==============Human_tropic Section Start=======================*/
+    .human_tropic_section {
+        min-height: 600px;
+    }
+
+    .human_tropic-img .human_tropic_img_item {
+        position: absolute;
+        top: 194px;
+        left: -70px;
+    }
+
+    .human_tropic-img .human_tropic_img_item img {
+        width: 50%;
+    }
+
+    .img_content {
+        top: 53%;
+        width: 50%;
+        left: 42%;
+    }
+
+    .img_content p {
+        font-size: 11px;
+        width: 50%;
+    }
+
+    .img_content h5 {
+        font-size: 10px;
+        padding-top: 10px;
+    }
+
+    .human_tropic_content h2 {
+        font-size: 16px;
+        margin-top: 217px;
+        width: 56%;
+        float: right;
+    }
+
+   .human_tropic_content a {
+    padding: 0 20px;
+    letter-spacing: 3px;
+    margin-top: 311px;
+    /* float: right; */
+    display: block !important;
+    margin-left: 307px;
+}
+    /*==============Human_tropic Section End=======================*/
+    /*==============Happiness Section Start=======================*/
+    .happiness_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+    .happiness_content h2 {
+        font-size: 34px;
+        padding-left: 15px;
+    }
+    .happiness_content p {
+    font-size: 13px;
+    padding-left: 15px;
+}
+    .happiness_content h4 {
+    padding-left: 15px;
+}
+    .happiness_content a {
+    padding: 0 10px;
+    letter-spacing: 3px;
+    margin-top: 20px;
+    color: #fff;
+    margin-left: 15px;
+}
+    /*==============Happiness Section End=======================*/
+    /*==============feedback Section Start=======================*/
+    
+    .feedback_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+    .feedback_title h2 {
+    font-size: 24px;
+}
+    .feedback_title p {
+    font-size: 13px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-right: 15px;
+}
+    /*==============feedback Section End=======================*/
+    /*==============Quotes Section Start=======================*/
+    .quotes_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+    .quotes_item {
+    padding-right: 0;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+    .quotes_title h2 {
+    font-size: 34px;
+    padding-bottom: 50px;
+}
+    /*==============Quotes Section End=======================*/
+    /*==============Questions Section Start=======================*/
+    .questions_title h2 {
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+    /*==============Questions Section End=======================*/
+    /*================Footer start====================================*/
+    .footer_bg {
+    min-height: 400px;
+    margin-top: -278px;
+}
+    .footer_content_left {
+    left: 0;
+    bottom: -348px;
+    padding-left: 15px !Important;
+}
+    .footer_content_left ul li {
+    padding-right: 10px;
+}
+    .footer_content_left ul li a {
+    font-size: 9px;
+}
+    .footer_content_rigth{
+        bottom: -348px;
+    }
+.footer_content_rigth p {
+    font-size: 11px;
+    padding-right: 15px;
+}
+    /*================Footer End====================================*/
+}
+
+@media (min-width:320px) and (max-width:575px) {
+    .padding {
+        padding: 40px 0 !important;
+    }
+
+    .bannar {
+        padding-top: 15px;
+    }
+
+    /*==============nav_bar Section Start=======================*/
+    .navbar {
+        top: 20px;
+    }
+
+    .navbar a.navbar-brand {
+        width: 50px;
+        height: 50px;
+        margin-right: 0px;
+        box-shadow: 1px 1px 27px 2px rgba(14, 72, 79, 0.6);
+    }
+
+    .navbar a.navbar-brand img {
+        margin-left: 7px;
+        margin-top: 6px;
+    }
+
+    .navbar .navbar-collapse .navbar-nav .nav-item a.nav-link {
+        margin-right: 0px;
+        line-height: 30px;
+    }
+
+    .navbar .navbar-collapse .navbar-nav .nav-item a.nav-link:before {
+        display: none;
+
+    }
+
+    .navbar .navbar-collapse .navbar-nav {
+        background: #fff;
+    }
+
+    .navbar .navbar-collapse .navbar-nav .nav-item a.log_in {
+        margin-right: 0px;
+        line-height: 30px;
+        text-align: center;
+        display: block;
+        margin-left: 0;
+        padding: 0px !important;
+    }
+
+    .navbar .navbar-collapse .navbar-nav .nav-item a.try_now {
+    line-height: 50px;
+    width: 200px;
+    display: inline-block;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 130px;
+}
+    /*==============nav_bar Section End=======================*/
+    /*==============bannar Section Start=======================*/
+    .bannar_section {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+
+    .bannar .bannar_contant {
+        margin-top: 90px;
+    }
+
+    .bannar .bannar_contant h1 {
+        font-family: 'Libre Franklin', sans-serif;
+        font-weight: 800;
+        color: #1a1a1a;
+        text-align: left;
+        font-size: 28px;
+    }
+
+    .bannar_contant a {
+    padding: 0 19px;
+    font-size: 13px;
+    letter-spacing: 2px;
+    margin-right: 50%;
+}
+
+    /*==============bannar Section End=======================*/
+    /*==============Bannar_bottom_content Section Start=======================*/
+    .bannar_bottom {
+        padding: 30px 0;
+        margin-top: 0px;
+    }
+
+    .bannar_bottom_logo img {
+        position: absolute;
+        top: -59px;
+        left: 3px;
+        width: 150px;
+    }
+
+    .bannar_bottom_content h2 {
+        font-size: 16px;
+        float: right;
+        width: 75%;
+    }
+
+    /*==============Bannar_bottom_content Section End=======================*/
+    /*==============Feature Section Start=======================*/
+    .feature_section {
+        padding-top: 162px;
+        padding-bottom: 50px;
+    }
+
+    .feature_contant h2 {
+        font-size: 20px;
+        padding-top: 50px;
+    }
+
+    .feature_contant h3 span {
+        font-size: 50px;
+        display: block;
+    }
+
+    .feature_img {
+        position: relative;
+        right: 0;
+        top: 0;
+    }
+
+    /*==============Feature Section End=======================*/
+    /*==============Client Section Start=======================*/
+    .client_section {
+        padding-bottom: 50px;
+    }
+
+    /*==============Client Section End=======================*/
+    /*==============Human_tropic Section Start=======================*/
+    .human_tropic_section {
+        min-height: 600px;
+    }
+
+    .human_tropic-img .human_tropic_img_item {
+        position: absolute;
+        top: 194px;
+        left: -70px;
+    }
+
+    .human_tropic-img .human_tropic_img_item img {
+        width: 50%;
+    }
+
+    .img_content {
+        top: 53%;
+        width: 50%;
+        left: 42%;
+    }
+
+    .img_content p {
+        font-size: 11px;
+        width: 50%;
+    }
+
+    .img_content h5 {
+        font-size: 10px;
+        padding-top: 10px;
+    }
+
+    .human_tropic_content h2 {
+        font-size: 16px;
+        margin-top: 217px;
+        width: 56%;
+        float: right;
+    }
+
+    .human_tropic_content a {
+        padding: 0 20px;
+        letter-spacing: 3px;
+        margin-top: 33px;
+        float: right;
+    }
+
+    /*==============Human_tropic Section End=======================*/
+    /*==============Happiness Section Start=======================*/
+    .happiness_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+    .happiness_content h2 {
+        font-size: 34px;
+        padding-left: 15px;
+    }
+    .happiness_content p {
+    font-size: 13px;
+    padding-left: 15px;
+}
+    .happiness_content h4 {
+    padding-left: 15px;
+}
+    .happiness_content a {
+    padding: 0 10px;
+    letter-spacing: 3px;
+    margin-top: 20px;
+    color: #fff;
+    margin-left: 15px;
+}
+    /*==============Happiness Section End=======================*/
+    /*==============feedback Section Start=======================*/
+    
+    .feedback_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+    .feedback_title h2 {
+    font-size: 24px;
+}
+    .feedback_title p {
+    font-size: 13px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-right: 15px;
+}
+    /*==============feedback Section End=======================*/
+    /*==============Quotes Section Start=======================*/
+    .quotes_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+    .quotes_item {
+    padding-right: 0;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+    .quotes_title h2 {
+    font-size: 34px;
+    padding-bottom: 50px;
+}
+    /*==============Quotes Section End=======================*/
+    /*==============Questions Section Start=======================*/
+    .questions_title h2 {
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+    /*==============Questions Section End=======================*/
+    /*================Footer start====================================*/
+    .footer_bg {
+    min-height: 400px;
+    margin-top: -278px;
+}
+    .footer_content_left {
+    left: 0;
+    bottom: -348px;
+    padding-left: 15px !Important;
+}
+    .footer_content_left ul li {
+    padding-right: 10px;
+}
+    .footer_content_left ul li a {
+    font-size: 9px;
+}
+    .footer_content_rigth{
+        bottom: -348px;
+    }
+.footer_content_rigth p {
+    font-size: 11px;
+    padding-right: 15px;
+}
+    /*================Footer End====================================*/
+}
